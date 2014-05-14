@@ -1,0 +1,16 @@
+{
+  "name": "x-validator",
+  "description": "x-validator",
+  "version": "0.0.1",
+  "keywords": [
+    "element",
+    "web-components",
+    "x-tag"
+  ],
+  "main": [
+    "src/x-validator.js"
+  ],
+  "dependencies": {
+    "x-tag-core": "*"
+  }
+}
