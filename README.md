@@ -1,4 +1,4 @@
-x-validator
+x-tag-input-inn
 ===========
 
-validator for html controls
+inn input for html controls

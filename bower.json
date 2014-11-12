@@ -1,6 +1,6 @@
 {
-  "name": "x-validator",
-  "description": "x-validator",
+  "name": "x-x-tag-input-inn",
+  "description": "x-x-tag-input-inn",
   "version": "0.0.1",
   "keywords": [
     "element",
@@ -8,7 +8,7 @@
     "x-tag"
   ],
   "main": [
-    "src/x-validator.js"
+    "src/x-tag-input-inn.js"
   ],
   "dependencies": {
     "x-tag-core": "*"
