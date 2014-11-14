@@ -39,7 +39,7 @@
         return checkResult;
     }
 
-    xtag.addEvent(document, 'change:delegate(input[data-x-tag=x-tag-input-inn])', function (e) {
+    xtag.addEvent(document, 'change:delegate(input[data-x-tag=x-input-inn])', function (e) {
         var checkResult = validate(this.value,parseInt(this.getAttribute("size"),10));
         var error = checkResult ? '':'Неверная контрольная сумма ИНН';
         this.setCustomValidity(error);
