@@ -1,4 +1,4 @@
-x-tag-input-inn
+input-inn
 ===========
 
 inn input for html controls
